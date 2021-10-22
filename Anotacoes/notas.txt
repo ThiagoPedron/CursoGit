@@ -1,0 +1,12 @@
+Curso GIT SENAI - Slides no Google ClassRoom
+    -> SEQUENCIA DE PASSOS PARA FAZER UM COMMIT
+        - ver status                : git status
+        - ver histórico de commits  : git log
+        - adicionar todos           : git add .
+        - adicionar arquivo         : git add nome_arquivo
+        - commitar                  : git commit -m "mensagem do commit"
+        - enviar para o repositório : git push 
+    -> Branchs
+        - verificar branch          : git branch
+        - criar branch              : git branch nome_b
+        - mudar para outra branch   : git checkout nome_branch_destino
