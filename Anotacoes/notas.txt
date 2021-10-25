@@ -10,3 +10,4 @@ Curso GIT SENAI - Slides no Google ClassRoom
         - verificar branch          : git branch
         - criar branch              : git branch nome_b
         - mudar para outra branch   : git checkout nome_branch_destino
+        - juntar branch             : git merge nome_da_branch_que_ira_juntar
